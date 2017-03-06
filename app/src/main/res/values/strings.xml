@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBaseTwo</string>
+    <string name="title_activity_nombre_user">NombreUser</string>
+</resources>
